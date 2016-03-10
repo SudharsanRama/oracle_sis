@@ -1,0 +1,14 @@
+DataSet link -> https://archive.ics.uci.edu/ml/datasets/Taxi+Service+Trajectory+-+Prediction+Challenge%2C+ECML+PKDD+2015
+
+
+
+The algorithm implementations for the problems are present in their respective directives.
+
+You can execute it by running the shell script "analyze.sh"
+
+
+For Location finding using kmeans clustering, the no. of clusters can be varied by changing the value present in values.txt
+
+
+
+Since we have our exams in the forthcoming week, we will develop the JAVA version once we finish our exams.
