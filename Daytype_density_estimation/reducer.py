@@ -16,6 +16,6 @@ for line in sys.stdin:
 		c+=1
 	user +=1
 
-print "% of users hiring on a day of type A:{0:.2f}%".format(float(a)/float(user)*100)
-print "% of users hiring on a day of type B:{0:.2f}%".format(float(b)/float(user)*100)
-print "% of users hiring on a day of type C:{0:.2f}%".format(float(c)/float(user)*100)
+print "% of users hiring on a day of type A:{0:.2%}".format(float(a)/float(user))
+print "% of users hiring on a day of type B:{0:.2%}".format(float(b)/float(user))
+print "% of users hiring on a day of type C:{0:.2%}".format(float(c)/float(user))
